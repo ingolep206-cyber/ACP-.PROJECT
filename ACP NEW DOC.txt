@@ -1,0 +1,68 @@
+Create a complete C program for a mini project titled "Menu Driven 2D Graphics Editor".
+
+Requirements:
+
+1. Use only standard C libraries:
+   - stdio.h
+   - stdlib.h
+   - math.h
+
+2. Create a canvas using a 2D character array.
+
+3. The code must be written in a learning-oriented style as if I am a student learning Computer Graphics and Data Structures concepts.
+
+4. Do NOT use advanced graphics libraries such as OpenGL, SDL, GTK, graphics.h, or any external library.
+
+5. The program must contain separate functions for:
+   1. Initialize Canvas
+   2. Display Canvas
+   3. Plot Point
+   4. Draw Line using Bresenham Line Drawing Algorithm
+   5. Draw Rectangle
+   6. Draw Triangle
+   7. Draw Circle
+   8. Delete Area
+   9. Menu Handling
+
+6. The program must be menu driven and display options in this format:
+
+   ===== MENU DRIVEN 2D GRAPHICS EDITOR =====
+   1. Draw Line
+   2. Draw Rectangle
+   3. Draw Triangle
+   4. Draw Circle
+   5. Delete Area
+   6. Display Picture
+   7. Clear Picture
+   8. Exit
+
+7. Use beginner-friendly variable names and procedural programming style.
+
+8. Add explanatory comments before every function like:
+
+   /* Initialize canvas */
+   /* Display canvas */
+   /* Plot a point */
+   /* Draw Line (Bresenham Algorithm) */
+   /* Draw Rectangle */
+   /* Draw Triangle */
+   /* Draw Circle */
+   /* Delete Object Area */
+   /* Main Program */
+
+9. Keep the implementation simple and educational rather than optimized.
+
+10. The output should resemble a lab mini-project submission and should help me learn:
+    - 2D coordinate systems
+    - Bresenham Line Algorithm
+    - Function modularization
+    - Menu-driven programming
+    - Canvas representation using arrays
+
+11. Generate the complete code from start to finish with proper indentation and numbering style wherever applicable.
+
+12. Do not shorten the code. Write the full implementation with all functions.
+
+13. Maintain a beginner learning format so that each section feels like I am learning a new concept step-by-step.
+
+Generate only the complete C source code.
